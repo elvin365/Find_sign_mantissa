@@ -1,6 +1,7 @@
 # Find_sign_mantissa
 Процедура, выводящая все байты заданного вещественного числа х в целом виде
 
+```C
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<conio.h>
@@ -22,3 +23,4 @@ int main()
 	_getch();
 	return 0;
 }
+```
